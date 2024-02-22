@@ -27,7 +27,7 @@ This application is used to create a personalized search
 
 ## Example use
 
-![Media Placeholder](./assets/example_use.png 'image of example use')
+![Media Placeholder](./assets/example_use1.png 'image of example use')
 
 ## Available components
 

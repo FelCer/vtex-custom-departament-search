@@ -26,7 +26,7 @@ Esta aplicación sirve para crear una busqueda personalizada
 
 ## Ejemplo de uso
 
-![Media Placeholder](./assets/example_use.png 'Imagen de ejemplo de uso')
+![Media Placeholder](./assets/example_use1.png 'Imagen de ejemplo de uso')
 
 ## Componentes disponibles
 
